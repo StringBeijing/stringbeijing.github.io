@@ -1,2 +1,2 @@
 # stringbeijing.github.io
-This is an example of a project page
+This website is to announce academic activities of theoretical high energy physics in Beijing.
